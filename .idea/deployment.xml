@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Nonsocomechiamarlo">
+    <serverData>
+      <paths name="Nonsocomechiamarlo">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="scuola-lavoro-2-phpstorm1" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
